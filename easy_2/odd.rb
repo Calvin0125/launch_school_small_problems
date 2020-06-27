@@ -1,0 +1,1 @@
+1.step(by: 2, to: 99) {|n| puts n}
